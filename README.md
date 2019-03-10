@@ -9,3 +9,13 @@ See it live at [boydstoast.com](https://boydstoast.com).
 ## Contributing
 
 Submit a pull request if you want to make something worse!
+
+## ToDo
+
+- [ ] Lens flares
+- [ ] better bad text alignment
+- [ ] CSS clip-rect the speech bubble
+- [ ] Add useless comments for every CSS rule
+- [ ] Find a better-matched dog pic?
+- [ ] Find a better-matched lightning bolt
+- [ ] Beta release
